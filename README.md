@@ -1,2 +1,0 @@
-# NoobCoder
-Static blog
